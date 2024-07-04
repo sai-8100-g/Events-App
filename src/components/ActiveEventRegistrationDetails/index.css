@@ -1,0 +1,52 @@
+.registrationDetailsCard {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.statusCard {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.statusImgCard {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.statusImgCard > img {
+  width: 60%;
+}
+
+.statusPara {
+  font-size: 1vw;
+  text-align: center;
+  color: #323f4b;
+}
+
+button {
+  background-color: #0967d2;
+  color: #ffffff;
+  font-size: 1.3vw;
+  padding: 1% 4%;
+  border: none;
+  border-radius: 4px;
+}
+
+.statusHeading {
+  font-size: 2vw;
+  text-align: center;
+  color: #323f4b;
+}
+
+.tickImg > img {
+  width: 20%;
+}
